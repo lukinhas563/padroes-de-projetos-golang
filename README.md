@@ -50,19 +50,19 @@ Esses padrões lidam com a organização de classes e objetos para criar estrutu
 
 Exemplos em Go:
 
-1. **Adapter**: Ver código
+1. **Adapter**: [adapter.md](./examples/estrutural/adapter/adapter.md)
     - **O que faz**: Converte a interface de um objeto para outra, permitindo que trabalhem juntos.
 
 2. **Composite**: [composite.md](./examples/estrutural/composite/composite.md)
     - **O que faz**: Organiza objetos em estruturas hierárquicas de árvore, facilitando o gerenciamento.
 
-3. **Decorator**: Ver código
+3. **Decorator**: [decorator.md](./examples/estrutural/decorator/decorator.md)
     - **O que faz**: Adiciona dinamicamente responsabilidades adicionais a um objeto sem alterar sua estrutura.
 
-4. **Facade**: Ver código
+4. **Facade**: [facade.md](./examples/estrutural/facade/facade.md)
     - **O que faz**: Fornece uma interface simplificada para um conjunto complexo de subsistemas.
 
-5. **Proxy**: Ver código
+5. **Proxy**: [proxy.md](./examples/estrutural/proxy/proxy.md)
     - **O que faz**: Fornece um substituto ou placeholder para outro objeto para controlar o acesso a ele.
 
 ---
